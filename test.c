@@ -1,4 +1,5 @@
 //Program count no digits.
+//Author: Atish Jain
 # include <stdio.h>
 main()
 {
