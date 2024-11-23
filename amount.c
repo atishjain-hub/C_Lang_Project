@@ -9,13 +9,13 @@ int main()
     int qty;
     float rate,amt;
 
-	//variable initializations
+    //variable initializations
     qty=rate=amt=0;
 
     printf("Enter Quantity:");
     scanf("%d",&qty);
 
-    printf("Enter Rate:");
+    printf("Enter Rate Per Unit:");
     scanf("%f",&rate);
 
     amt=rate*qty;
