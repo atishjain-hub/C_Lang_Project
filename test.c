@@ -14,6 +14,8 @@ main()
 
     printf("No of Digits are:%d",count);
 
+    printf("\nThank you!);
+
 
  printf("\n");
 }
