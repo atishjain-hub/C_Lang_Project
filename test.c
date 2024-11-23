@@ -1,3 +1,4 @@
+//Program count no digits.
 # include <stdio.h>
 main()
 {
