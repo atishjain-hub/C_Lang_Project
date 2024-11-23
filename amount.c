@@ -1,5 +1,7 @@
 //rate and quantity example
 //Author: Atish Jain
+//Date: 23-Nov-24
+//Objective: multiplication
 # include <stdio.h>
 int main()
 {
