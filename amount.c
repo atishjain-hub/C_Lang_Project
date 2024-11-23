@@ -1,5 +1,5 @@
 //rate and quantity example
-
+//Author: Atish Jain
 # include <stdio.h>
 int main()
 {
