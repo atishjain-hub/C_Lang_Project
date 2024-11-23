@@ -7,6 +7,8 @@ int main()
 {
     int qty;
     float rate,amt;
+
+	//variable initializations
     qty=rate=amt=0;
 
     printf("Enter Quantity:");
