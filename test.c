@@ -14,7 +14,7 @@ main()
         count++;
     }
 
-    printf("No of Digits are:%d",count);
+    printf("No of Digits in the given no are:%d",count);
 
     printf("\nThank you so much!);
     
