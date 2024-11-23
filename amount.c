@@ -15,11 +15,7 @@ int main()
     printf("Enter Quantity:");
     scanf("%d",&qty);
 
-<<<<<<< HEAD
-    printf("Enter Rate of the item:");
-=======
-    printf("Enter Rate per piece:");
->>>>>>> 1dd2bc19eb295af2c31cd333f0ec87f0373dc955
+    printf("Enter Rate:");
     scanf("%f",&rate);
 
     amt=rate*qty;
