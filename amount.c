@@ -5,6 +5,7 @@
 # include <stdio.h>
 int main()
 {
+    //varaible declarations
     int qty;
     float rate,amt;
 
